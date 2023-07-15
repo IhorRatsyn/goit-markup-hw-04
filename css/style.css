@@ -648,3 +648,8 @@ body {
 .modal-btn:focus .modal-icon {
   fill: #ffffff;
 }
+.is-hidden {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
